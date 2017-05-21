@@ -1,0 +1,28 @@
+
+- Diferentes modos de dificultad de juego:
+	  * Principiante --> mapa completo
+	  * Normal       --> mapa semi-oculto
+	  * Avanzado     --> mapa semi-oculto con disminución de visión por cada nivel superado
+	  * Experto      --> mapa oculto
+- Diferentes niveles con incremento de dificultad:
+	  * Ampliación de tamaño de laberinto
+	  * Reducción de tiempo
+	  * Reducción de visión de mapa (modo avanzado)
+- Puntuación en función del tiempo, del nivel y del modo de juego
+
+- Cámaras adicionales:
+ 		* Cámara en tercera persona cenital
+		* Videocámara en salida del laberinto, con "pan"/"tilt" independientes y posibilidad de zoom
+- Modelado del jugador y de la cámara de salida, con posibilidad de movimientos intependientes
+- Visión del jugador "pan" y "tilt" con el ratón
+- Movimiento del jugador hacia los lados
+- Efecto de "caminar" en jugador
+
+- Textura diferente (pared + puerta) en salida del laberinto
+- Juego de texturas (paredes, suelo, techo y puerta de salida) diferente para cada nivel de juego
+- Textura adaptada a las seis caras del cubo/modelo del jugador y de la cámara de salida
+
+- Posición de salida del laberinto aleatoria
+- Posición de inicio del jugador aleatoria, alejada de posición de salida del laberinto
+- Indicación de salida en mapa del laberinto (cuadrado azul)
+- Cambio de color del marcador de tiempo cuando está finalizando
